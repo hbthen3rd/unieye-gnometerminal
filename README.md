@@ -20,10 +20,10 @@ Vintage, retro, dark, vibrant, contrast, indigo, 🦄👁
 ### UniEye family:
 
 - [UniEye for Visual Studio Code](https://github.com/hbthen3rd/unieye-vscode)
-- [UniEye for macOS' Terminal.app](https://github.com/hbthen3rd/unieye-terminalapp)
 - _UniEye for Hyper.js_ (coming soon)
+- [UniEye for macOS' Terminal.app](https://github.com/hbthen3rd/unieye-terminalapp)
 - **UniEye for GNOME Terminal**
-- _UniEye for Windows Terminal_ (coming soon)
+- [UniEye for Windows Terminal](https://github.com/hbthen3rd/unieye-windowsterminal)
 - _UniEye for iTerm2_ (coming soon)
 
 ### Screenshot
